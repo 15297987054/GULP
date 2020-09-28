@@ -1,0 +1,1 @@
+"use strict";var x=100,y=2,fn=function(){console.log(123)};console.log(12312312312);
